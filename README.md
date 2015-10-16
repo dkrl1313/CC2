@@ -1,6 +1,6 @@
 # CC2
 
-151002
+<151002>
 
 error가 났다...
 
@@ -21,4 +21,11 @@ Java HotSpot(TM) Client VM warning: You have loaded library /home/hadoop/hadoop-
 It's highly recommended that you fix the library with 'execstack -c <libfile>', or link it with '-z noexecstack'.
 15/10/02 00:11:32 WARN util.NativeCodeLoader: Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
 cat: `/output/part-r-00000': No such file or directory
+
+
+
+<151016>
+
+wget [가져오고싶은 링크] 
+->파일 카피
 
